@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="title_1">Geometría # 14128</string>
+    <string name="title_2">Osmunda Transitum, 2022</string>
+    <string name="title_3">Star Sketches, #8 Untitled, above the Island of Hawaii, 2023</string>
+    <string name="title_4">Cloudscape C, 2023</string>
+    <string name="title_5">Voice Print 6 (Atmospheric River), 2023</string>
+    <string name="artist_1">ALBERTO GONZÁLEZ VIVO</string>
+    <string name="artist_2">MARIANNE HENDRIKS</string>
+    <string name="artist_3">LIA BEKYAN</string>
+    <string name="artist_4">JOHN FOLCHI</string>
+    <string name="artist_5">CHRISTINA MCPHEE</string>
+</resources>
